@@ -1,0 +1,2 @@
+<p>📘 <a href="https://example.com/physics-notes.pdf" target="_blank">Download Notes</a></p>
+<p>🎥 <a href="https://youtube.com/example-video" target="_blank">Watch Tutorial Video</a></p>
